@@ -23,4 +23,4 @@ Flix is an app that allows users to browse movies from the [The Movie Database A
 <img src="https://i.imgur.com/s5R6Ent.gif" width=250><br>
 
 ### Notes
-I had a IBOutlet error where I was getting a Thread 1 Fatal error. Removing the segue for the TableView and attaching it back fixed it. 
+I had an IBOutlet error where I was getting a Thread 1 Fatal error. Removing the segue for the TableView and attaching it back fixed it. 
